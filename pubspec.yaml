@@ -29,3 +29,11 @@ flutter:
     - lib/assets/verbasense.png
     - lib/assets/capacitor.png
     - lib/assets/icecream.png
+  fonts:
+    - family: CourierPrime
+      fonts:
+        - asset: fonts/CourierPrime-Regular.ttf
+        - asset: fonts/CourierPrime-Italic.ttf
+          style: italic
+        - asset: fonts/CourierPrime-Bold.ttf
+          weight: 500
